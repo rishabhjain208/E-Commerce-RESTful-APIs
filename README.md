@@ -72,7 +72,11 @@ This project implements a RESTful API for managing users, products, orders, and 
 
 ## Libraries Used
 
-- **List of libraries/frameworks used in your project (e.g., Express, MongoDB, bcrypt, Stripe)**.
+- **Express**: Web framework for Node.js.
+- **MongoDB**: NoSQL database for storing data.
+- **Mongoose**: MongoDB object modeling for Node.js.
+- **bcrypt**: Password hashing library for secure password storage.
+- **Stripe**: Payment processing platform for online transactions.
 
 ## Contributors
 
